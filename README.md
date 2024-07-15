@@ -16,6 +16,8 @@ Web developer assignment : In this assignment for the internship application wit
 ![Screenshot 2024-07-15 232226](https://github.com/user-attachments/assets/38e0a042-1f2e-4724-b0e6-8ee49e2ec6d5)
 
 4."OUR PROJECT" Section
+![Screenshot 2024-07-15 233111](https://github.com/user-attachments/assets/67ed5396-8fca-4a60-87a0-c87f0157cc33)
+
 ![Screenshot 2024-07-15 232818](https://github.com/user-attachments/assets/c50dc7f9-0601-417e-9138-788a34501893)
 
 
